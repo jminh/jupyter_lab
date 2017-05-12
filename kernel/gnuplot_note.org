@@ -1,0 +1,15 @@
+
+https://github.com/has2k1/gnuplot_kernel
+
+Setup gnuplot kernel
+
+pip install gnuplot_kernel does not works now
+
+https://github.com/has2k1/gnuplot_kernel/issues/5
+
+Use
+
+#+BEGIN_SRC sh
+pip install git+https://github.com/has2k1/gnuplot_kernel.git@master
+#+END_SRC
+
