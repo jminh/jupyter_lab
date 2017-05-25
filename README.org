@@ -1,0 +1,7 @@
+
+* misc
+
+nbpreview (https://jsvine.github.io/nbpreview/)
+https://github.com/jsvine/nbpreview
+
+Render IPython/Jupyter notebooks without running a notebook server.
